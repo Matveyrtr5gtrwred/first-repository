@@ -1,3 +1,2 @@
 # first-repository
-My first repository
-Hello, my name is Matvey!
+Hello, my name is Matvey! This is my first repository.
